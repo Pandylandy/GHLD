@@ -1,3 +1,4 @@
 # -*- coding: utf-8 -*-
 
-DB = "db.db"
+db = "db.db"
+
